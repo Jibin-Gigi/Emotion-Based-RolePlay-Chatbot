@@ -1,5 +1,3 @@
 streamlit
-numpy
-Pillow
 google-generativeai
-python-dotenv
+Pillow
